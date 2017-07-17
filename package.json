@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.15.3",
     "next": "^2.4.7",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "next"
+    "dev": "node server.js"
   },
   "keywords": [],
   "author": "",
